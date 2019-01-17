@@ -1,3 +1,6 @@
-# Welcome to my blog
+# Welcome to my first attempt at a static webpage
 
-I'm glad you are here. I plan to talk about ...
+---
+
+I'm a postdoctoral fellow at the Hawai'i Institute of Marine Biology.
+
